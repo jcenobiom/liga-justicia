@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado desde GitHub
 
 * Prueba #1
-<console.log("Hola Mundo");>
+console.log("Hola Mundo");
