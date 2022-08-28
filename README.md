@@ -12,5 +12,14 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado desde GitHub
 
 * Prueba #1
+* Prueba #2
+* Prueba #3
+* Prueba #4
+* Prueba #5
 
+### Comandos
+Hola Mundo con JS
 `console.log("Hola Mundo");`
+
+Clonar este repositorio
+`git clone https://github.com/jcenobiom/liga-justicia.git`
