@@ -45,3 +45,11 @@ Clonar este repositorio
 _Esto es un texto en cursiva_
 
 **Este es otro texto**
+
+## Markdown de GitHub
+
+Tutorial de Markdown:
+[Markdowntutorial.com](url)
+
+GitHub Markdown sheet
+[https://github.com/hnsreeny/markdown/blob/master/markdown-cheatsheet-online.pdf](url)
